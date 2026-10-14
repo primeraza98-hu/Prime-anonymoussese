@@ -1,0 +1,6 @@
+{
+  "name": "Prime Market Hub",
+  "description": "Buy premium digital cards for all shopping platforms, crypto, and Binance with instant balance delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
